@@ -1,7 +1,7 @@
 # VN-DARU — Vietnam Digital Asset Regulatory Uncertainty Index
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/VN-DARU/blob/main/notebooks/VN_DARU_colab.ipynb)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://doi.org/10.5281/zenodo.21359334)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 
@@ -73,7 +73,7 @@ Vu, Q., Huynh, T. T., & Tran, T. M. H. (2026). Constructing a Regulatory
 Uncertainty Index for Digital Assets in Vietnam (VN-DARU): A Quantitative
 Approach Based on News and Policy.
 
-Code archive: https://doi.org/10.5281/zenodo.XXXXXXX
+Code archive: https://doi.org/10.5281/zenodo.21359334
 ```
 
 Citation metadata is also available in [`CITATION.cff`](CITATION.cff) (use GitHub's **"Cite this repository"** button).
