@@ -1,0 +1,32 @@
+{
+  "title": "VN-DARU: Vietnam Digital Asset Regulatory Uncertainty Index — replication code",
+  "description": "<p>Replication code and figures for the paper <em>Constructing a Regulatory Uncertainty Index for Digital Assets in Vietnam (VN-DARU): A Quantitative Approach Based on News and Policy</em>. The Google Colab notebook builds a weekly news-based index of digital-asset regulatory uncertainty for Vietnam (January 2021 &ndash; June 2026) from the GDELT Global Knowledge Graph via BigQuery, constructs four control variants, merges the index with Bitcoin realized volatility, and reproduces all validation tests, structural-break analyses around Law No. 71/2025/QH15, and figures reported in the paper.</p>",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Vu, Quang",
+      "affiliation": "Ho Chi Minh City Institute of Educational Managers, Vietnam"
+    },
+    {
+      "name": "Huynh, Tan Toi",
+      "affiliation": "Agribank, Ho Chi Minh City, Vietnam",
+      "orcid": "0009-0008-2542-6645"
+    },
+    {
+      "name": "Tran, Thi My Huong",
+      "affiliation": "Faculty of Economic Law, Banking University of Ho Chi Minh City, Vietnam"
+    }
+  ],
+  "keywords": [
+    "regulatory uncertainty",
+    "digital assets",
+    "cryptocurrency",
+    "Vietnam",
+    "news-based index",
+    "GDELT",
+    "economic policy uncertainty",
+    "Bitcoin volatility"
+  ]
+}

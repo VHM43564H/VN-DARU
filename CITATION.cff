@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code or the VN-DARU index, please cite it as below."
+type: software
+title: "VN-DARU: Vietnam Digital Asset Regulatory Uncertainty Index — replication code"
+version: 1.0.0
+date-released: 2026-07-14
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/VN-DARU"
+# Sau khi có DOI từ Zenodo, bỏ dấu # ở dòng dưới và điền DOI thật:
+# doi: 10.5281/zenodo.XXXXXXX
+authors:
+  - family-names: "Vu"
+    given-names: "Quang"
+    affiliation: "Ho Chi Minh City Institute of Educational Managers, Vietnam"
+  - family-names: "Huynh"
+    given-names: "Tan Toi"
+    affiliation: "Agribank, Ho Chi Minh City, Vietnam"
+    orcid: "https://orcid.org/0009-0008-2542-6645"
+  - family-names: "Tran"
+    given-names: "Thi My Huong"
+    affiliation: "Faculty of Economic Law, Banking University of Ho Chi Minh City, Vietnam"
+keywords:
+  - regulatory uncertainty
+  - digital assets
+  - cryptocurrency
+  - Vietnam
+  - news-based index
+  - GDELT
+  - economic policy uncertainty
+preferred-citation:
+  type: article
+  title: "Constructing a Regulatory Uncertainty Index for Digital Assets in Vietnam (VN-DARU): A Quantitative Approach Based on News and Policy"
+  year: 2026
+  authors:
+    - family-names: "Vu"
+      given-names: "Quang"
+    - family-names: "Huynh"
+      given-names: "Tan Toi"
+      orcid: "https://orcid.org/0009-0008-2542-6645"
+    - family-names: "Tran"
+      given-names: "Thi My Huong"
+  # Khi bài báo được chấp nhận, thêm các dòng sau (bỏ dấu #) và điền thông tin:
+  # journal: "Ten tap chi"
+  # volume: 0
+  # issue: 0
+  # start: 1
+  # end: 30
+  # doi: 10.xxxx/xxxxx
